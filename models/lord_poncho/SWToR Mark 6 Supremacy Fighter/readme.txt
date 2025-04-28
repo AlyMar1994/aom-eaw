@@ -17,3 +17,4 @@ Particle - YVaW
 ADDENDUM: Archived from Discord: Empire at War Mod Hub.
 No description.
 Thumbnail: N/A
+DISCLAIMER: This model was added to the repo without a prereq pull request on mistake.
