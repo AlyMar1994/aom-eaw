@@ -12,4 +12,4 @@ Jer - Lamp glow
 
 ADDENDUM: Archived from Discord: Empire at War Mod Hub.  Includes "Christophsis Prop Pack - Part 2" and the "W_Christophsis_Building_Lights_03.ALO" building lights fix.
 No description.
-Thumbnail: N/A
+Thumbnail: unknown.webp
