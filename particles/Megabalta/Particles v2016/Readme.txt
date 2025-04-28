@@ -12,3 +12,9 @@ pm = particle miss
 pp = projectile trail
 ps = particle shield hit
 px = particle explosion
+
+-----------------------------------------
+
+ADDENDUM: Archived from https://focumentation.fandom.com/wiki/MegaBalta_Particles_v2016
+"Free released particle assets for space battles."
+Thumbnail: With_Love.jpg
