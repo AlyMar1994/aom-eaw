@@ -1,5 +1,8 @@
 "PR_Space_Maps.7z (Discord attachment)"
 https://cdn.discordapp.com/attachments/413428854510845953/441369079065083914/PR_Space_Maps.7z?ex=6810047c&is=680eb2fc&hm=a88f2827dd01657d67659c839b2884d97218922d9739a86d9ab157fa3605e696&
+
+-----------------------------------------
+
 Free-use space maps for Empire at War, from the mod Phoenix Rising
 
 Please credit evilbobthebob when you use these maps
@@ -19,6 +22,6 @@ The maps use vanilla props and vanilla markers, except for custom "Orbital Defen
 
 -----------------------------------------
 
-ADDENDUM: Archived from Discord: Empire at War Mod Hub.
+ADDENDUM: Archived from Discord: Empire at War Mod Hub.  Credit the creators.
 No description.
 Thumbnail: N/A
