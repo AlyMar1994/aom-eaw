@@ -12,7 +12,7 @@ All assets are organized as follows:
 - - - Item/Pack Name (f.e. "Public Models (2016-2020)" or "StarViper/Virago Fighter HD") ->
 - - - - Items & readme/credits
 
-All items here are free-to-use unto the restrictions of their readme/license.  All items here are contributed in the best spirits by their creator.  All items here may or may not have support attached, please do not go out of your way to harrass an author because something went wrong, treat it as a last resort.
+All items here are free-to-use unto the restrictions of their readme/license.  All items here are contributed in the best spirits by their creator.  All items here may or may not have support attached, please do not go out of your way to harrass an author because something went wrong, treat support as a last resort.
 
 Always credit the creator.  Read the readme/credits.  Include the readme/credits.
 
