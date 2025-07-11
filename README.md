@@ -21,4 +21,4 @@ Anyone can have their assets removed at any time, but I implore [you/author] to 
 
 Anyone can publish assets as long as they don't invoke some direct copyright violation.  Make a pull request following the directory specification in "USAGE," and it'll be closed as soon as possible and as long as there is a readme/credits file included.
 
-If an author wishes to include a general, in-totality license/readme, they can request or place on in their Author folder.  Please contact @alymar1994 with any questions.  Contributors, such as administrators of the Modder's Hub, can be added at any time.
+If an author wishes to include a general, in-totality license/readme, they can request or place one in their Author folder.  Please contact @alymar1994 with any questions.  Contributors, such as administrators of the Modder's Hub, can be added at any time.
